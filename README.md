@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HildaN-DS
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Professional Certificate
+- 🌱 I’m currently learning IBM Data Science Professional Certificate
 
 
 <!---
