@@ -1,6 +1,6 @@
-Hi, I’m Hilda.
-
 ![Banner](https://github.com/user-attachments/assets/3278475f-fe45-43fc-af39-29c3b1cc0c57)
+
+Hi, I’m Hilda.
 
 🔹 Expertise in: Data Analysis, Machine Learning, Data Visualization, and Predictive Modeling
 
