@@ -6,7 +6,7 @@ Hi, I’m Hilda.
 
 🔹 Background: Experience in leadership and education, now leveraging data to support evidence-based decisions and social good
 
-![ Alt Text]("Blue Modern Company Slogan LinkedIn Banner.png")
+![Blue Modern Company Slogan LinkedIn Banner](https://github.com/user-attachments/assets/5e777eed-a4fc-4efd-8365-ddbb3f863b01)
 
 
 <!---
