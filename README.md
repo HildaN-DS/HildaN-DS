@@ -1,12 +1,14 @@
 Hi, I’m Hilda.
 
+![Banner](https://github.com/user-attachments/assets/3278475f-fe45-43fc-af39-29c3b1cc0c57)
+
 🔹 Expertise in: Data Analysis, Machine Learning, Data Visualization, and Predictive Modeling
 
 🔹 Sectors of Interest: Health, Education, Sustainability, and Development
 
 🔹 Background: Experience in leadership and education, now leveraging data to support evidence-based decisions and social good
 
-![Blue Modern Company Slogan LinkedIn Banner](https://github.com/user-attachments/assets/5e777eed-a4fc-4efd-8365-ddbb3f863b01)
+
 
 
 <!---
